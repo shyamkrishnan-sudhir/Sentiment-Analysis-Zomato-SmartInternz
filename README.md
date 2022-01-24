@@ -19,3 +19,11 @@ zomato.csv
 zomato_2_analysis.h5
 cv.pkl
 
+### Libraries used:
+
+Tensorflow
+Flask
+Numpy
+Flask-WTF
+
+
