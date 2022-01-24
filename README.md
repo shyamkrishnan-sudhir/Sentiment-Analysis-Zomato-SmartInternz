@@ -1,5 +1,6 @@
-# Sentiment-Analysis-Zomato-SmartInternz
-SmartInternz Guided Project 
+# Sentiment-Analysis-Zomato-SmartInternz 
+
+Sentiment Analysis Of Customer Feedback On Restaurants Using IBM Cloud
 
 - Shyamkrishnan Sudhir
 
