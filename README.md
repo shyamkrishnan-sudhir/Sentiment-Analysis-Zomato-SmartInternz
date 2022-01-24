@@ -16,14 +16,14 @@ zomato.csv
 
 ### Model Name: 
 
-zomato_2_analysis.h5
-cv.pkl
+1. zomato_2_analysis.h5
+2. cv.pkl
 
 ### Libraries used:
 
-Tensorflow
-Flask
-Numpy
-Flask-WTF
+1. Tensorflow
+2. Flask
+3. Numpy
+4. Flask-WTF
 
 
