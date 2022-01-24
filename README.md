@@ -9,8 +9,12 @@ SmartInternz Guided Project
 2. prediction.html
 3. projectdata.html
 
-### Dataset Used: zomato.csv
+### Dataset Used: 
 
-### Model Name: zomato_2_analysis.h5
+zomato.csv
+
+### Model Name: 
+
+zomato_2_analysis.h5
 
 
